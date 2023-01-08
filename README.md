@@ -1,3 +1,17 @@
+<h1>2023关于软件通告</h1>
+  
+<ul> 
+<li> 
+<h2>
+2023年由于作者学习提升自己无法更新软件,另外改软件风险较大在2023年hw开发以后对外永久停止更新。由于广大渗透测试爱好者觉得此软件很不错故会找个时间进行选择性开源放出源代码。创建以下一个频道一个群后续沟通交流
+软件公告频道:https://t.me/SoftwareUpdateChannel
+沟通交流新群:https://t.me/softcomunigroup
+</h2>
+</li>
+ </ul>
+ 
+![软件源代码截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E6%BA%90%E7%A0%81.jpg)<br/>
+
 <h1>申明!!!</h1>
  最近有群里说是我们的项目有后门钓鱼红队的。烦请这些沙雕带带脑子。这项目早就出来了不是最近才出来。我们github所有项目没有任何后门!!!我们看不起任何方式的放后门的行为。要不免费要不付费别放后门。
  这种脑残言论要禁止。
@@ -56,11 +70,15 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <li>最后感谢大家对本软件的支持</li>
 
   </ul>
+  
+
+  
+
   <h1>AttackWebFrameworkTools-5.1-main  2022-02-05</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!<br/>
   如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报.邮箱最近有人频繁骚扰。再说一次别给我发邮件没有什么重要的事儿警告不听直接邮件黑名单处理。
 有事飞机✈️同样方便和外国友人交流到飞机群上报。别光截图。<br/>
-软件信息更新频道发布信息:https://t.me/SoftwareUpdateChannel
+
 </br>另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
 
  ![menu](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/5.1Exp.jpg)
@@ -362,9 +380,9 @@ YAPI RCE 漏洞实战测试
 
 列出软件内置模块截图
 
-![列出软件内置模块截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main-5.1/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE.png)<br/>
+![列出软件内置模块截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE.png)<br/>
 
-![列出软件内置模块截图2](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main-5.1/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE2.png)<br/>
+![列出软件内置模块截图2](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE2.png)<br/>
 
 排除模块功能演示
 
