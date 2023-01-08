@@ -3,7 +3,7 @@
  这种脑残言论要禁止。
 
  
- ![脑残言论](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main-5.1/main/%E7%94%B3%E6%98%8E.png)<br/>
+ ![脑残言论](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E7%94%B3%E6%98%8E.png)<br/>
  <h2>该项目没有任何后门(木马,webshell箱子) 说有后门的脑残直接回收站。</h2>
  
 
@@ -20,7 +20,7 @@
   <li>会编程的可以自己直接编写。模板地址:https://github.com/peiqiF4ck/AttackWebFrameworkToolsUserDllplugin
     后续会提供post。get数据包的dll。后续可能会开放上传dll。可以直接调用。或者用户自己编写</li>
   <li>内置exp。作者编写</li>
-    <li>5.0 使用视频教程:https://youtu.be/tqmw3GgWxVM</li>
+    <li> 使用视频教程:https://youtu.be/tqmw3GgWxVM</li>
   <li>软件开发目的是让渗透测试人员是不在关注或者很少关注xday Or 1day。只关注渗透测试常规漏洞和0day漏洞</li>
   <li>软件内置exp 相当于 vulmap  自定义dll功能 相当于 http fuzzer 一键生成利用exp相当于 k8 ladon的 web攻击模块。一个工具融合三个工具相当于</li>
   </ul>
@@ -56,15 +56,16 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <li>最后感谢大家对本软件的支持</li>
 
   </ul>
-  <h1>AttackWebFrameworkTools-5.1-main 5.0 2022-02-05</h1>
+  <h1>AttackWebFrameworkTools-5.1-main  2022-02-05</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!<br/>
   如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报.邮箱最近有人频繁骚扰。再说一次别给我发邮件没有什么重要的事儿警告不听直接邮件黑名单处理。
 有事飞机✈️同样方便和外国友人交流到飞机群上报。别光截图。<br/>
-  飞机群:bug report telegram:https://t.me/softcomu contact me。加群答案:百度搜索github。请看群公告触犯将永久封禁。之前被机器人封禁(机器人自动解封)的已经解封可以重新进群。如果加入输入答案错误被机器人封禁的。请几分钟以后再尝试加群。</br>另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
+软件信息更新频道发布信息:https://t.me/SoftwareUpdateChannel
+</br>另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
 
  ![menu](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/5.0Exp.png)
- ![menu](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/Menu-dll-5.0.png)
- <h1>AttackWebFrameworkTools-5.1-main 5.0 For RedTeam </h1>
+ ![menu](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/Menu-dll-.png)
+ <h1>AttackWebFrameworkTools-5.1-main  For RedTeam </h1>
 <p><a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost&&%E8%99%9A%E6%84%9A%E5%85%AC%E5%AD%90-red" style="max-width:100%;"></a>
   <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-5.1-main-Version5.0-faa755" style="max-width:100%;"></a>
   <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
@@ -74,6 +75,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+   <li>2023-01-08 修复https 多出bug 修复十几个逻辑性的bug错误。增加不排除模块。版本更新至5.1 </li>
   <li>2022-10-07 增加 -m参数列出所有内置模块</li>
    <li>2022-10-04 更新 排除模块功能选项具体。看演示截图 修复dnslog 逻辑 代码</li>
    <li>2022-09-28 更新 easyCVR 接口信息泄露(gateway)</li>
@@ -119,7 +121,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
   <li>2021-11-27 xxx酒店电视网关(通用) 未授权RCE漏洞(gateway)</li>
   <li>2021-11-26  更新webuploader上传漏洞,用友-UFIDA-NC" 目录遍历,metinfo 6.0 任意文件读取漏洞(hwcms).,nodejs 文件读取，node js rce CVE-2021-21315</li>
    <li>2021-11-21 更新xxx一体机rce漏洞</li>
-  <li>2021-11-20 更新weiphp 5.0 未授权文件上传。sql注入漏洞</li>
+  <li>2021-11-20 更新weiphp  未授权文件上传。sql注入漏洞</li>
   <li>2021-11-19 更新Apache ShenYu 未授权接口访问(CVE-2021-37580)</li>
   <li>2021-11-12 更新泛微OA 任意文件上传xday </li>
   <li>2021-11-08 更新某堡垒机Rce漏洞</li>
