@@ -3,7 +3,7 @@
  这种脑残言论要禁止。
 
  
- ![脑残言论](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1/main/%E7%94%B3%E6%98%8E.png)<br/>
+ ![脑残言论](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main-5.1/main/%E7%94%B3%E6%98%8E.png)<br/>
  <h2>该项目没有任何后门(木马,webshell箱子) 说有后门的脑残直接回收站。</h2>
  
 
@@ -56,21 +56,21 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <li>最后感谢大家对本软件的支持</li>
 
   </ul>
-  <h1>AttackWebFrameworkTools 5.0 2022-02-05</h1>
+  <h1>AttackWebFrameworkTools-5.1-main 5.0 2022-02-05</h1>
   软件启动和使用方法。下载下来注意要看git使用方法。别什么也不看不会用就发issu。注意看说明!!!注意看说明!!!2.0把不确定漏洞写入MaybeVul.txt,肯定有误报但增加成功率!!!争取把遗漏率降到最低!!!<br/>
   如果用的旧版本出现误报请下载新版本在测试一次。如果还存在误报。直接标注最新版(Soft Update 2021-04-24)例如:和信下一代xxx存在误报.邮箱最近有人频繁骚扰。再说一次别给我发邮件没有什么重要的事儿警告不听直接邮件黑名单处理。
 有事飞机✈️同样方便和外国友人交流到飞机群上报。别光截图。<br/>
   飞机群:bug report telegram:https://t.me/softcomu contact me。加群答案:百度搜索github。请看群公告触犯将永久封禁。之前被机器人封禁(机器人自动解封)的已经解封可以重新进群。如果加入输入答案错误被机器人封禁的。请几分钟以后再尝试加群。</br>另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
 
- ![menu](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/5.0Exp.png)
- ![menu](https://github.com/peiqiF4ck/AttackWebFrameworkTools/blob/main/Menu-dll-5.0.png)
- <h1>AttackWebFrameworkTools 5.0 For RedTeam </h1>
-<p><a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools"> <alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost&&%E8%99%9A%E6%84%9A%E5%85%AC%E5%AD%90-red" style="max-width:100%;"></a>
-  <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-Version5.0-faa755" style="max-width:100%;"></a>
-  <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
-  <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools"><img alt="Release" src="https://img.shields.io/badge/language-C%23/C++-ff69b4.svg" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer"><img  alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peiqiF4ck/AttackWebFrameworkTools?color=gree" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/peiqiF4ck/AttackWebFrameworkTools" style="max-width:100%;"></a></p>
+ ![menu](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/5.0Exp.png)
+ ![menu](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/Menu-dll-5.0.png)
+ <h1>AttackWebFrameworkTools-5.1-main 5.0 For RedTeam </h1>
+<p><a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost&&%E8%99%9A%E6%84%9A%E5%85%AC%E5%AD%90-red" style="max-width:100%;"></a>
+  <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-5.1-main-Version5.0-faa755" style="max-width:100%;"></a>
+  <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
+  <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"><img alt="Release" src="https://img.shields.io/badge/language-C%23/C++-ff69b4.svg" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer"><img  alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peiqiF4ck/AttackWebFrameworkTools-5.1-main?color=gree" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/peiqiF4ck/AttackWebFrameworkTools-5.1-main" style="max-width:100%;"></a></p>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
@@ -189,21 +189,21 @@ Finetree-5MP-摄像机 未授权添加账号密码,弱密码
  (3)优点:本软件虽然不能直接由用户自定义编写exp或者poc。但是支持代理模式用户可以直接抓取poc或者exp放到bp抓包工具中进行手工测试。另外除了getshell如果失败的话会返回测试的payload详情同样可以由用户把exp导入bp中进行测试。而且把不确定成功与否的漏洞详情写入maybevul.txt中用户可以自己手工测试到底是漏洞不存在还是被拦截了。这样大大增加了成功率。相比于其他软件exp内置并且不支持代理直接抓取软件内部exp。即使失败了也搞不清楚到底是exp问题还是被拦截了
 </li>
 </ul>
-<h2>AttackWebFrameworkTools 5.0工具使用方法</h1>
+<h2>AttackWebFrameworkTools-5.1-main 5.0工具使用方法</h1>
 <ul>
   <h3>内置exp模式</h3>
 url.txt 中网站一行一个且必须以http:// https:// 开头<br/>
 启动勾选模式,需要创建include.txt。模块一行一个具体看 勾选功能演示<br/>
 启动排除模块模式,需要创建uninclude.txt。模块一行一个具体看 排除模块功能演示<br/>
-AttackWebFrameworkTools.exe 所有exp都跑使用默认线程模式(注意劲量不要使用全部模块一个耗时太长。另一个有waf被ban ip导致速度变慢建议使用勾选模块方式或者指定模块。如果您确定没有waf什么影响那么全部模块没毛病!!!)<br/>
-AttackWebFrameworkTools.exe  -m 列出所有内置模块名称<br/>
-AttackWebFrameworkTools.exe  -thread 200 所有exp都跑使用自定义线程模式<br/>
-AttackWebFrameworkTools.exe -type thinkphp 使用默认线程跑 thinkphp框架漏洞使用说明<br/>
-AttackWebFrameworkTools.exe -type thinkphp -thread 200 使用自定义线程 线程跑 thinkphp框架漏洞<br/>
-AttackWebFrameworkTools.exe -url http://www.baidu.com<br/>
-AttackWebFrameworkTools.exe -url http://www.baidu.com -thread 30<br/>
-AttackWebFrameworkTools.exe -url http://www.baidu.com/ -type thinkphp<br/>
-AttackWebFrameworkTools.exe -url http://www.baidu.com -type thinkphp -thread 30<br/>
+AttackWebFrameworkTools-5.1-main.exe 所有exp都跑使用默认线程模式(注意劲量不要使用全部模块一个耗时太长。另一个有waf被ban ip导致速度变慢建议使用勾选模块方式或者指定模块。如果您确定没有waf什么影响那么全部模块没毛病!!!)<br/>
+AttackWebFrameworkTools-5.1-main.exe  -m 列出所有内置模块名称<br/>
+AttackWebFrameworkTools-5.1-main.exe  -thread 200 所有exp都跑使用自定义线程模式<br/>
+AttackWebFrameworkTools-5.1-main.exe -type thinkphp 使用默认线程跑 thinkphp框架漏洞使用说明<br/>
+AttackWebFrameworkTools-5.1-main.exe -type thinkphp -thread 200 使用自定义线程 线程跑 thinkphp框架漏洞<br/>
+AttackWebFrameworkTools-5.1-main.exe -url http://www.baidu.com<br/>
+AttackWebFrameworkTools-5.1-main.exe -url http://www.baidu.com -thread 30<br/>
+AttackWebFrameworkTools-5.1-main.exe -url http://www.baidu.com/ -type thinkphp<br/>
+AttackWebFrameworkTools-5.1-main.exe -url http://www.baidu.com -type thinkphp -thread 30<br/>
 <h3>用户自定义dll模式</h3>
  同目录下创建userdll.txt即可进入用户自定义模式
 AttackWebFrameworkToolsUser.exe   跑所有dll</br>
@@ -215,10 +215,10 @@ AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -thread 30        指�
 AttackWebFrameworkToolsUser.exe -url http://www.baidu.com -dllname test.dll    默认线程跑指定dll(由于只有一个dll一个网站就使用默认线程就行了)</br>
 一键生成dll,Dllplugins.dll 是内置dll不要尝试加载。对于批量dll话在软件目录添加一个dll目录即可进行批量。其他和内置exp操作一样。注意一键生成dll软件除post数据框那里可以有带双引号的数据。其他所有地方都不允许有双引号否则会编译失败!!!使用如下图:
 
- ![userage](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/UserExpDll.png)
+ ![userage](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/UserExpDll.png)
  演示忘记截图加ThreadHelper.dll 必须要有否则报错。。
- ![userage](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/UserDllExpHelp.png)
- ![userage](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/DllAttack.png)
+ ![userage](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/UserDllExpHelp.png)
+ ![userage](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/DllAttack.png)
   如果要使用勾选功能见上图实测效果。勾选功能演示。如果想启用排除模块功能,请看排除模块功能截图演示 如果想自定义作者见自定义作者演示图<br/>
 <h3>内置exp模块</h3>
 集成漏洞如下(-type参数) 注意有的type参数虽然标注了两个类别但并不代表这个参数只包含这两个漏洞!!!!<br/>
@@ -342,42 +342,42 @@ oaAll(不知名oa漏洞集合)<br/>
 <h2>上图实测效果</h2>
 自定义作者演示
 
-![自定义作者演示](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/author.png)<br/>
+![自定义作者演示](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/author.png)<br/>
 
 CVE-CVE-2021-22205
-![CVE-CVE-2021-22205](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/cve-2021-22205.png)<br/>
+![CVE-CVE-2021-22205](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/cve-2021-22205.png)<br/>
 
 YAPI RCE 漏洞实战测试
 
-![YAPI RCE](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/Yapi.png)<br/>
+![YAPI RCE](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/Yapi.png)<br/>
 
 网东统一通信平台 045 漏洞实战一键getshell
 
-![045漏洞实战](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/action.png)<br/>
+![045漏洞实战](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/action.png)<br/>
 勾选功能演示
 
-![勾选功能](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/include.png)<br/>
+![勾选功能](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/include.png)<br/>
 
 列出软件内置模块截图
 
-![列出软件内置模块截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE.png)<br/>
+![列出软件内置模块截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main-5.1/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE.png)<br/>
 
-![列出软件内置模块截图2](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE2.png)<br/>
+![列出软件内置模块截图2](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main-5.1/main/%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97%E7%94%A8%E6%B3%95%E6%88%AA%E5%9B%BE2.png)<br/>
 
 排除模块功能演示
 
-![排除模块功能](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/uninclude.png)<br/>
+![排除模块功能](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/uninclude.png)<br/>
 
 CVE-2021-30461 VOIP Monitor RCE 演示截图
 
-![voip](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/voip.png)<br/>
+![voip](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/voip.png)<br/>
 HVV部分漏洞实战测试 360新天擎注入
 
-![360天擎](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/360%E5%A4%A9%E6%93%8E%E6%B3%A8%E5%85%A5%E5%AF%B9%E6%AF%94.png)<br/>
+![360天擎](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/360%E5%A4%A9%E6%93%8E%E6%B3%A8%E5%85%A5%E5%AF%B9%E6%AF%94.png)<br/>
 
 jboss漏洞测试图
 
-![jboss](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/Jboss.png)<br/>
+![jboss](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/Jboss.png)<br/>
 
 CVE-2021-21972 Vmware vcenter 最新漏洞测试结果<br/>
 
@@ -387,29 +387,29 @@ windows主机测试
 
 通达oA一键getshell实战测试注意由于网站数量少所以采用自定义线程数来跑如果采用默认线程那么结果不准确
 
-![tongda](https://github.com/peiqiF4ck/AttackWebFrameworkTools/blob/main/tongda.png)<br/>
+![tongda](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/tongda.png)<br/>
 druid测试批量测试
 ![druid](https://forum.90sec.com/uploads/default/optimized/2X/a/aa2297c6a09ba219d4d2451b912fc6251e29ae44_2_1380x698.jpeg) 
 ApacheFlink实战png
 ![Apach](https://forum.90sec.com/uploads/default/original/2X/8/85dafde5a3c59063e5877447361d461c47233682.png) 
 ActiveMQ测试
-![ActiveMQ](https://github.com/peiqiF4ck/AttackWebFrameworkTools/blob/main/ActiveMQ.png)
+![ActiveMQ](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/ActiveMQ.png)
 solr动图测试
-![gif](https://github.com/peiqiF4ck/AttackWebFrameworkTools/blob/main/Solr.gif?raw=true)
+![gif](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/Solr.gif?raw=true)
 solr新增exp测试图
-![2017](https://github.com/peiqiF4ck/AttackWebFrameworkTools/blob/main/solr2017.png)
+![2017](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/solr2017.png)
 测试结果
-![reslut](https://github.com/peiqiF4ck/AttackWebFrameworkTools/blob/main/result.png)
+![reslut](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/result.png)
 同类软件Unomi测试对比:某软件测试结果速度有点慢可能是线程开的小
-![unomi](https://github.com/peiqiF4ck/AttackWebFrameworkTools/blob/main/UnoM.png)
+![unomi](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/UnoM.png)
 我们的软件测试结果和速度几分钟搞定
-![myunomi](https://github.com/peiqiF4ck/AttackWebFrameworkTools/blob/main/UnomiMysoft.png)
+![myunomi](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/UnomiMysoft.png)
 
 Apache APISIX Dashboard CVE-2021-45232
-![APISIX](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/CVE-2021-45232.png)
+![APISIX](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/CVE-2021-45232.png)
 
 5.0自定义Exp PhpStudyRce 功能演示截图
-![phpstudyRce](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/PhpstudyRCETest.png)
+![phpstudyRce](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/PhpstudyRCETest.png)
 
 向日葵RCE
-![向日葵](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools/main/sunlogin.png)
+![向日葵](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/sunlogin.png)
