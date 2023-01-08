@@ -63,11 +63,11 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 软件信息更新频道发布信息:https://t.me/SoftwareUpdateChannel
 </br>另外MaybeVul.txt的网站。如果提出issue的不私发网站不处理！！！请知晓。<h3>5.0更新加入单个网站的批量测试。加入了自定义作者的功能。5.0加入了代理检测功能!!!检测到代理立刻退出软件运行。5.0升级版本加入了升级自动提醒功能,加入了一键生成利用exp功能用户自写dll。等功能关于5.0使用方法请看软件使用方法</h3>
 
- ![menu](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/5.0Exp.png)
- ![menu](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/Menu-dll-.png)
+ ![menu](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/5.1Exp.jpg)
+ ![menu](https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/blob/main/Menu-dll-5.1.png)
  <h1>AttackWebFrameworkTools-5.1-main  For RedTeam </h1>
 <p><a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <alt="Author" src="https://img.shields.io/badge/Author-Anonymousghost&&%E8%99%9A%E6%84%9A%E5%85%AC%E5%AD%90-red" style="max-width:100%;"></a>
-  <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-5.1-main-Version5.0-faa755" style="max-width:100%;"></a>
+  <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <img alt="Version" src="https://img.shields.io/badge/AttackWebFrameworkTools-5.1-main-version5.1-faa755" style="max-width:100%;"></a>
   <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
   <a href="https://github.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main"><img alt="Release" src="https://img.shields.io/badge/language-C%23/C++-ff69b4.svg" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img  alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peiqiF4ck/AttackWebFrameworkTools-5.1-main?color=gree" style="max-width:100%;"></a>
