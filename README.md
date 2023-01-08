@@ -4,15 +4,15 @@
 <li> 
 <h2>
 2023年由于作者学习提升自己无法更新软件,另外改软件风险较大在2023年hw开发以后对外永久停止更新。由于广大渗透测试爱好者觉得此软件很不错故会找个时间进行选择性开源放出源代码。创建以下一个频道一个群后续沟通交流<br/>
-软件公告频道:https://t.me/SoftwareUpdateChannel<br/>
-沟通交流新群:https://t.me/softcomunigroup<br/>
+软件公告频道(软件更新源码等分享知识频道):https://t.me/SoftwareUpdateChannel<br/>
+
 </h2>
 </li>
  </ul>
  
 ![软件源代码截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E6%BA%90%E7%A0%81.jpg)<br/>
  
-![软件源代码1截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E6%BA%90%E7%A0%8111.jpg)<br/>
+![软件源代码1截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E6%BA%90%E7%A0%811.jpg)<br/>
  
 ![软件源代码2截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E6%BA%90%E7%A0%812.jpg)<br/>
 
