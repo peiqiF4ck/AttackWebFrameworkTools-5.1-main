@@ -104,6 +104,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
 <h2>更新日志:</h2>
 <ul>
   <li>更新日志记录软件已经停止更新!!!</li>
+  <li>2023-01-14  增加禅道Rce  exp地址:https://codeload.github.com/webraybtl/zentaopms_poc/ 这个poc只写了伪静态。我们动态静态都有。修复了若干https http请求头部问题导致xml请求错误导致漏报和误报问题。测试截图请看下图 。从此刻起更新的exp poc名称和使用所在的模块 全部写入软件内部。且不在github中显示</li>
    <li>2023-01-08 修复https 多出bug 修复十几个逻辑性的bug错误。增加不排除模块。版本更新至5.1 </li>
   <li>2022-10-07 增加 -m参数列出所有内置模块</li>
    <li>2022-10-04 更新 排除模块功能选项具体。看演示截图 修复dnslog 逻辑 代码</li>
@@ -445,4 +446,7 @@ Apache APISIX Dashboard CVE-2021-45232
 向日葵RCE
 ![向日葵](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/sunlogin.png)
 
+禅道测试
+
+![禅道](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/ZenTao.png)
 
