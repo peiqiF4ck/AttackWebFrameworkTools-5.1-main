@@ -16,7 +16,7 @@
  
 ![软件源代码2截图](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E6%BA%90%E7%A0%812.jpg)<br/>
 
-<h1>使用条例:</h1>shell
+<h1>使用条例:</h1>
 本项目发布软件禁止对未授权网站进行攻击<br/>
 本项目如果发布源代码禁止进行未授权商业用途<br/>
 本项目如果发布源代码禁止二次开发后对网站进行非法攻击<br/>
