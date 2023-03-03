@@ -25,9 +25,6 @@
 <h1>申明!!!</h1>
  最近有群里说是我们的项目有后门钓鱼红队的。烦请这些沙雕带带脑子。这项目早就出来了不是最近才出来。我们github所有项目没有任何后门!!!我们看不起任何方式的放后门的行为。要不免费要不付费别放后门。
  这种脑残言论要禁止。
-
- 
- ![脑残言论](https://raw.githubusercontent.com/peiqiF4ck/AttackWebFrameworkTools-5.1-main/main/%E7%94%B3%E6%98%8E.png)<br/>
  <h2>该项目没有任何后门(木马,webshell箱子) 说有后门的脑残直接回收站。</h2>
  
 
